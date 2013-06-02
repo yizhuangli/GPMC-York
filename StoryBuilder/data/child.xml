@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><children>
+
+<child><childID>1</childID><name>Jim</name><password>jim</password><age>14</age><picture>1366503627417.jpg</picture></child><child><childID>2</childID><name>Mike</name><password>mike</password><age>11</age><picture>1366503654600.jpg</picture></child><child><childID>3</childID><name>Dave</name><password>dave</password><age>8</age><picture>1366503667371.jpg</picture></child></children>
