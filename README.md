@@ -1,6 +1,6 @@
 GPMC-York
 =========
-Java swing application to help teachers or adults manage stories and assign stories to different children.
+#Java swing application to help teachers or adults manage stories and assign stories to different children.
 
 Basic function:
 -----
